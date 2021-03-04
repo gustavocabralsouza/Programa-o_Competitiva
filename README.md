@@ -17,6 +17,6 @@ Problemas extraídos do site URI Online Judge e CodeFources
 
 -  **C++** — Linguagem estruturada, utilizada neste repositório para escrita e compilação dos problemas.
 
-#Objetivos :
+# Objetivos :
 Finalizar todos os problemas desde o nível básico até o nível de Estrutura de dados e computação avançada.
 
