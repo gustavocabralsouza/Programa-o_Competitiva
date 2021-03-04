@@ -13,7 +13,7 @@ PROGRAMAÇÃO COMPETITIVA
 </p>
 
 ## Problemas e enunciados :
-Problemas extraídos do site URI Online Judge e CodeFources
+Problemas extraídos do site URI Online Judge e CodeForces
 
 -  **C++** — Linguagem estruturada, utilizada neste repositório para escrita e compilação dos problemas.
 
