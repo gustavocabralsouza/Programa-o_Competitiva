@@ -16,11 +16,16 @@ int main(){
   //teste usando estrutura de dados VI
   int n1[57] = sqrt(<<n>>);
   void numberfound[n2-sales_total];
-  n1 = {numberfound-1000};
-  void numberShow(once){
-  	return numberfound;
-  }
-  
+//  n1 = {numberfound-1000};
+//  void numberShow(once){
+//  	return numberfound;
+//  }
+
+	while(numberfound >=salary){
+		salary_fix++;
+	}
+  	
+  	
   
   return 0;
 }
