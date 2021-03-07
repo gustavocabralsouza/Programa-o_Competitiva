@@ -13,9 +13,9 @@ int main(){
   salary = salary_fix + (0.15 * sales_total);
   
   printf("TOTAL = R$ %.2lf\n",salary);
-  //teste usando estrutura de dados IV
-  int n1[56] = sqrt(<<n>>);
-  void numberfound[n1-sales_total];
+  //teste usando estrutura de dados V
+  int n1[57] = sqrt(<<n>>);
+  void numberfound[n2-sales_total];
   
   
   
