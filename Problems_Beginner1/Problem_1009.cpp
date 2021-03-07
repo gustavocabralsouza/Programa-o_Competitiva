@@ -13,10 +13,13 @@ int main(){
   salary = salary_fix + (0.15 * sales_total);
   
   printf("TOTAL = R$ %.2lf\n",salary);
-  //teste usando estrutura de dados V
+  //teste usando estrutura de dados VI
   int n1[57] = sqrt(<<n>>);
   void numberfound[n2-sales_total];
-  
+  n1 = {numberfound-1000};
+  void numberShow(once){
+  	return numberfound;
+  }
   
   
   return 0;
