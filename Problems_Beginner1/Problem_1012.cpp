@@ -1,7 +1,12 @@
-int main(){
- float a,b,c,tri, cir, quad, trap, ret;
+#include<bits/stdc++.h>
 
- scanf("%f %f %f",&a,&b,&c);
+using namespace std;
+
+int main(){
+	
+ double a,b,c,tri, cir, quad, trap, ret;
+
+ scanf("%lf %lf %lf",&a,&b,&c);
 
  tri    = (a*c)/2;
  cir    = 3.14159*(c*c);
@@ -9,11 +14,11 @@ int main(){
  quad   = b*b;
  ret    = a*b;
 
- printf("TRIANGULO: %.3f\n",tri);
- printf("CIRCULO: %.3f\n",cir);
- printf("TRAPEZIO: %.3f\n",trap);
- printf("QUADRADO: %.3f\n",quad);
- printf("RETANGULO: %.3f\n",ret);
+ printf("TRIANGULO: %.3lf\n",tri);
+ printf("CIRCULO: %.3lf\n",cir);
+ printf("TRAPEZIO: %.3lf\n",trap);
+ printf("QUADRADO: %.3lf\n",quad);
+ printf("RETANGULO: %.3lf\n",ret);
 
 return 0;
 }
