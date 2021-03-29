@@ -4,7 +4,7 @@ using namespace std;
 int main(){
 	
   char name[61];
-  double salary_fix,sales_total, salary;
+  double salary_fix,sales_total,salary;
   
   scanf("%s",name);
   scanf("%lf",&salary_fix);
