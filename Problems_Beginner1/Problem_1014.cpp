@@ -6,11 +6,11 @@ int main(){
   double distance, consum, result;
   
   scanf("%lf",&distance);
-  scanf("%lf",&consume);
+  scanf("%lf",&consum);
   
-  result = distance / consume
+  result = distance / consum;
   
-  printf("%.2lf km/l\n",result);
+  printf("%.3lf km/l\n",result);
   
   return 0;
 }
