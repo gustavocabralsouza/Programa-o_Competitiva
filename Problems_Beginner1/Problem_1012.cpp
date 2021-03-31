@@ -1,24 +1,17 @@
 #include<bits/stdc++.h>
-
+#include <math.h>
 using namespace std;
 
 int main(){
 	
- double a,b,c,tri, cir, quad, trap, ret;
+	double x1, x2, y1, y2, distance;
+	
+	scanf("%lf %lf",&x1,&y1);
+	scanf("%lf %lf",&x2,&y2);
 
- scanf("%lf %lf %lf",&a,&b,&c);
+	distance =  sqrt(pow(x2-x1,2) + pow(y2-y1,2));
+	
+	printf("%.4lf\n",distance);
 
- tri    = (a*c)/2;
- cir    = 3.14159*(c*c);
- trap   = ((a+b)*c)/2;
- quad   = b*b;
- ret    = a*b;
-
- printf("TRIANGULO: %.3lf\n",tri);
- printf("CIRCULO: %.3lf\n",cir);
- printf("TRAPEZIO: %.3lf\n",trap);
- printf("QUADRADO: %.3lf\n",quad);
- printf("RETANGULO: %.3lf\n",ret);
-
-return 0;
+	return 0;
 }
